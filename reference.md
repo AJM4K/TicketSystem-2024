@@ -3,3 +3,7 @@
 
 
 https://medium.com/@1415sandalanka/laravel-11-rest-api-crud-with-best-practices-fcc26505e0d2
+
+https://www.techiediaries.com/laravel-11-crud-api-tutorial/
+
+https://medium.com/@shaillydixit999/restful-apis-with-crud-operations-in-laravel-11-2024-33db3bf88f7e
